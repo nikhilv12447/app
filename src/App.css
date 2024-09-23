@@ -1,0 +1,19 @@
+.App {
+  display: inline-block;
+  width: 410px;
+  height: 410px;
+}
+.box {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin-right: 2px;
+}
+
+.sea {
+  background-color: lightblue;
+}
+
+.land {
+  background-color: lightgray;
+}
